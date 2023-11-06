@@ -9,7 +9,6 @@ import com.project.treeshop.services.CategoryService;
 import com.project.treeshop.services.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
-import org.modelmapper.ModelMapper;
 import org.springframework.data.domain.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
